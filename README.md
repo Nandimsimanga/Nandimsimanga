@@ -1,5 +1,5 @@
 About Me
-👋 ### Hi, I’m @Nandimsimanga (Nandi)
+👋 Hi, I’m @Nandimsimanga (Nandi)
 ![A picture of me (coming soon)](url_to_your_image)
 
 I’m interested in the digital space, ranging from social media to building websites and applications, and understanding how systems work!
@@ -20,7 +20,7 @@ I’m currently a student pursuing a Bachelor's in Computer and Information Scie
 I’m looking to collaborate on fun, creative projects and I'm eager to learn so I can deliver the best applications and websites. 
 
 ### How to reach me: 
-You can email me at nandi.msimanga23@gmail.com or connect with me on LinkedIn (https://www.linkedin.com/in/nandi-msimanga-79310a293/)
+You can connect with me on LinkedIn (https://www.linkedin.com/in/nandi-msimanga-79310a293/)
 
 ### Fun facts:
 - I'm also interested in the property industry and aim to enhance businesses with my skills.
