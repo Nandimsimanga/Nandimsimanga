@@ -1,6 +1,6 @@
 About Me
 👋 Hi, I’m @Nandimsimanga (Nandi)
-![A picture of me (coming soon)](url_to_your_image)
+
 
 I’m interested in the digital space, ranging from social media to building websites and applications, and understanding how systems work!
 
